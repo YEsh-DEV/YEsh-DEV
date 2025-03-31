@@ -1,12 +1,17 @@
-
- <h1>👋 Hey there! I'm Yeshwanth</h1>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1;">
+    <h1>👋 Hey there! I'm Yeshwanth</h1>
     <p><strong>Beginner Web Developer | ML & Data Science Enthusiast</strong></p>
     <p>Passionate about technology, AI, and web development.</p>
     <p>Currently learning Machine Learning, Data Science, and Full-Stack Development.</p>
-   
+  </div>
+  <div style="flex-shrink: 0;">
+    <img src="1709185826024.gif" width="400" height="300">
+  </div>
+</div>
+
 
 # 💻 Tech Stack:
-![](1709185826024.gif) 
 <br>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=YEsh-DEV&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

@@ -5,7 +5,7 @@
 <p>Passionate about technology, AI, and web development.</p>
 <p>Currently learning Machine Learning, Data Science, and Full-Stack Development.</p>
 
-<img src="1709185826024.gif" width="500" height="450" />
+<img src="1709185826024.gif" width="600" height="400" />
 
 </div>
 

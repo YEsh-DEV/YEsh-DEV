@@ -91,6 +91,11 @@ Exploring the boundary between autonomous machine intelligence and core software
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YEsh-DEV&theme=tokyonight" alt="Overall Stats" />
 </p>
+## 👾 GitHub Space Shooter
+
+<p align="center">
+  <img src="./game.gif" alt="GitHub Space Shooter" />
+</p>
 
 ---
 

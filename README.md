@@ -109,11 +109,9 @@ Exploring the boundary between autonomous machine intelligence and core software
   <a href="https://www.linkedin.com/in/yesh26/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-  <a href="mailto:atmakuriyeshwanth@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=atmakuriyeshwanth@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-
 ⚡ *Constantly evolving architectures to align autonomous agents with industrial scalability.*

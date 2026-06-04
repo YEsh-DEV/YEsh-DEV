@@ -114,8 +114,5 @@ Exploring the boundary between autonomous machine intelligence and core software
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YEsh-DEV&color=39FF14&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
 
 ⚡ *Constantly evolving architectures to align autonomous agents with industrial scalability.*

@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFF&center=true&vCenter=true&width=500&lines=Building+Agentic+Workflows;Optimizing+RAG+Pipelines;Orchestrating+Multi-Agent+Systems;Core+Systems+%26+Architectures" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Building+Agentic+Workflows;Optimizing+RAG+Pipelines;Orchestrating+Multi-Agent+Systems;Core+Systems+%26+Architectures" alt="Typing SVG" />
 </p>
 
 ---

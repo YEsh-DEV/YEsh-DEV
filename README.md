@@ -118,5 +118,5 @@ Exploring the boundary between autonomous machine intelligence and core software
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=atmakuriyeshwanth@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
+</p>   
 ⚡ *Constantly evolving architectures to align autonomous agents with industrial scalability.*

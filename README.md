@@ -17,13 +17,13 @@
 </td>
 <td valign="top">
 
-### Hi, I'm Yeshwanth
+### Yeshwanth
 
-I'm a B.Tech CSE (AI & ML) student at SRM University AP (CGPA 9.20) who builds retrieval systems, real-time voice agents, and autonomous workflows. I've shipped voice AI components for a production platform as an intern and I'm currently an AI Automation R&D Intern at Advfiction.
+is a student at SRM University AP with CGPA 9.20, who builds retrieval systems, real-time voice agents, and autonomous workflows. I've shipped voice AI components for a production platform as an intern and I'm currently an AI Automation R&D Intern at Advfiction.
 
 My research work turns unstructured cyber threat reports into knowledge graphs and predicts an attacker's next technique with a RotatE embedding model.
 
-**Now:** workflow automation for a multi-sector Business OS (CRM, ERP, AI services).
+**Present:** workflow automation for a multi-sector Business OS (CRM, ERP, AI services).
 **Community:** Member, McCarthy Lab, Next Tech Lab, my college's mentorship club.
 
 *The bounty on the poster is a fun score computed from my public GitHub activity. It refreshes daily.*

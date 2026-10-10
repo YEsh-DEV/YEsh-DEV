@@ -1,126 +1,111 @@
-<h1 align="center">Yeshwanth Atmakuri</h1>
-<p align="center">
-  <b>AI Systems Engineer | Agentic AI & Multi-Agent Architect</b>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img alt="Yeshwanth Atmakuri, AI engineer: GraphRAG, voice agents, autonomous workflows" src="assets/banner-light.svg" width="100%">
+</picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Building+Agentic+Workflows;Optimizing+RAG+Pipelines;Orchestrating+Multi-Agent+Systems;Core+Systems+%26+Architectures" alt="Typing SVG" />
+  <a href="https://yesh-eosin.vercel.app/"><b>Portfolio</b></a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/yesh26/"><b>LinkedIn</b></a> &nbsp;|&nbsp;
+  <a href="mailto:atmakuriyeshwanth@gmail.com"><b>Email</b></a>
 </p>
 
----
+<table>
+<tr>
+<td width="340" valign="top">
+<img src="assets/wanted.svg" alt="Wanted poster for Yeshwanth Atmakuri with a live bounty computed from GitHub activity" width="320">
+</td>
+<td valign="top">
 
-## 🧠 About Me
+### Hi, I'm Yeshwanth
 
-Exploring the boundary between autonomous machine intelligence and core software architectures. Currently engineering production-grade Retrieval-Augmented Generation (RAG) ecosystems, real-time voice intelligence, and scalable AI infrastructure. 
+I'm a B.Tech CSE (AI & ML) student at SRM University AP (CGPA 9.20) who builds retrieval systems, real-time voice agents, and autonomous workflows. I've shipped voice AI components for a production platform as an intern and I'm currently an AI Automation R&D Intern at Advfiction.
 
-* 🛠️ Juggling **multi-agent race conditions**, optimizing **vector storage retrieval**, and debugging runtime environments at **2 AM**.
-* 🧪 **Core Focus:** Advanced Agentic AI frameworks (LangGraph, CrewAI), Model Context Protocol (MCP), and real-time audio streaming infrastructure.
-* 🔬 **Research & Collaboration:** Associate at **Next Tech Lab**, collaborating on deep learning pipelines and autonomous intelligence architectures.
+My research work turns unstructured cyber threat reports into knowledge graphs and predicts an attacker's next technique with a RotatE embedding model.
 
----
+**Now:** workflow automation for a multi-sector Business OS (CRM, ERP, AI services).
+**Community:** Member, McCarthy Lab, Next Tech Lab, my college's mentorship club.
 
-## 🛠️ Tech Stack
+*The bounty on the poster is a fun score computed from my public GitHub activity. It refreshes daily.*
 
-### 🤖 Generative AI & Agentic Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-0052CC?style=for-the-badge&logo=gitgraph&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=target&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG__Pipelines-007ACC?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FEE75C?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</p>
+</td>
+</tr>
+</table>
 
-### 💻 Core Languages & Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
+<img src="assets/divider.svg" alt="" width="100%">
 
-### 🗄️ Databases, Vector Stores & Streaming
-<p align="left">
-  <img src="https://img.shields.io/badge/Qdrant-FF4B4B?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LiveKit-6200EE?style=for-the-badge&logo=livekit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
+## Three-Sword Style
 
-### ☁️ MLOps & Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+I work in three areas and try to keep each one sharp.
 
----
+| Retrieval and graphs | Real-time voice AI | Agents and automation |
+|---|---|---|
+| Built a **GraphRAG** threat-intelligence framework (ChromaDB, SentenceTransformers, Neo4j) that maps reports to MITRE ATT&CK graphs | Deployed voice pipeline components on **FastAPI, Docker, LightRAG and LiveKit** for Simsy AI | Built an autonomous **LangGraph** agent that diagnoses failed payments and sends personalised retry links |
+| Tuned a **RotatE** model in PyTorch to **41.38% Hits@1**, over 10x better than GNN, LLM and Markov baselines | Cut audio payload latency by **32%** and container baseline storage by **45%** | Designed event-driven automation across webhooks, retries and error handling; compared n8n, Zoho Flow, Zapier and Workato |
 
-## 🚀 Featured AI Production Systems
+<img src="assets/divider.svg" alt="" width="100%">
 
-### 🎙️ Simmy AI | *Core Contributor*
-> **Dockerized Voice AI Platform** engineered for ultra-low latency, production-ready real-time interaction.
-* Implemented a cutting-edge **LightRAG** architecture for lightning-fast graph-based content retrieval.
-* Leveraged **LiveKit** audio streaming and **FastAPI** to build high-performance audio inference pipelines.
-* Fully containerized with **Docker** and deployed across **AWS EC2/S3** infrastructure.
+## Voyage log
 
-### 🤖 Nexi | *RAG Voice Agent Architecture*
-> **Context-Aware Voice Intelligence System** built to optimize institutional query handling.
-* Designed a **dual-RAG routing pipeline** that dynamically switches between unstructured PDFs and structured JSON sources depending on intent classification.
-* Implemented complex session persistence mechanics enabling full conversation memory and graceful reconnection handling.
-* **Stack:** Python, LangChain, Qdrant Vector DB, LiveKit STT/TTS.
+| When | Where | What I did |
+|---|---|---|
+| Aug 2026 to now | **Advfiction**, AI Automation R&D Intern | Designing automation workflows for a Business OS that connects CRM, ERP, AI and external services |
+| May to Jul 2026 | **SRM University AP**, Research Intern | Architected the GraphRAG threat-intelligence framework and the RotatE next-technique predictor |
+| Mar to Aug 2026 | **Universiti Teknologi Malaysia**, exchange semester | Semester exchange program in Johor Bahru |
+| Jan to Mar 2026 | **Simsy AI**, AI Engineering Intern | Shipped production voice AI pipeline components; improved concurrency and cut storage by 45% |
 
-### 🏛️ Culture Agent | *Smart India Hackathon (SIH) Qualifier*
-> **Domain-Bounded RAG Engine** built for AR-based cultural heritage reconstruction.
-* Built a strictly bounded, domain-specific RAG pipeline to power immersive, factual contextual lookups in 3D historical environments.
-* Handled context-injection barriers to avoid LLM hallucinations regarding historical facts.
+**Smart India Hackathon:** twice an internal qualifier (2025 and 2026), selected among the top 45 of 300+ team entries. I led teams on an AR cultural-heritage assistant with a domain-bounded RAG pipeline (2025) and a satellite imagery change-detection engine (2026).
 
----
+<img src="assets/divider.svg" alt="" width="100%">
 
-## 📊 GitHub Analytics
+## The route so far
+
+<img src="assets/grand-line.svg" alt="Sea chart showing five projects in order: Simsy AI, Next-TTP, Nexi, Palm Vein, Recovery Agent" width="100%">
+
+| Project | What it does | Built with |
+|---|---|---|
+| [**Next-TTP-Prediction**](https://github.com/YEsh-DEV/Next-TTP-Prediction) | Temporal-causal GraphRAG that predicts an attacker group's next technique from actor-aware knowledge graphs. **41.38% Hits@1.** | Python, PyTorch, Neo4j, ChromaDB, PyKEEN |
+| [**Nexi**](https://github.com/YEsh-DEV/nexi-ntl) | Campus voice assistant that routes each question to PDFs or structured data. **340 ms** replies, **98.4%** grounded accuracy. | Python, LlamaIndex, ChromaDB, LiveKit, Gemini |
+| [**Palm Vein Payments**](https://github.com/YEsh-DEV/vein-detection) | Edge biometric payment authentication on a Raspberry Pi 5 using near-infrared imaging. **Sub-500 ms** auth, **FAR below 0.1%**. | Python, MediaPipe, OpenCV, FastAPI, React, SQLite |
+| [**Autonomous Recovery Agent**](https://github.com/YEsh-DEV/Autonomous-Recovery-Agent) | Agent that classifies why a payment failed and dispatches a retry link. Drops in as webhook middleware. | Python, LangGraph, FastAPI, SQLite |
+| **Simsy AI voice platform** | Production voice AI work from my internship (private company code). | FastAPI, Docker, LightRAG, LiveKit, AWS |
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+## Armory
+
+| | |
+|---|---|
+| **Languages** | `Python` `C++` `Java` `JavaScript` |
+| **AI and ML** | `PyTorch` `TensorFlow` `scikit-learn` `XGBoost` `PyKEEN` `NetworkX` |
+| **Generative AI** | `LangChain` `LangGraph` `CrewAI` `LlamaIndex` `RAG` `GraphRAG` `LightRAG` |
+| **Backend and real-time** | `FastAPI` `REST APIs` `SQLAlchemy` `LiveKit` `Docker` |
+| **Data stores** | `Neo4j` `Qdrant` `ChromaDB` `PostgreSQL` `SQLite` |
+| **Cloud and tools** | `AWS EC2` `AWS S3` `Git` `React` `Jupyter` `OpenCV` `MediaPipe` |
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+## Logbook
+
+The latest entries from my public repositories, written by a GitHub Action.
+
+<!-- LOGBOOK:START -->
+| Date | Repo | Entry |
+|---|---|---|
+| 2026-10-01 | [Vectorless-Rag](https://github.com/YEsh-DEV/Vectorless-Rag) | pushed new commits |
+| 2026-10-02 | [Vectorless-Rag](https://github.com/YEsh-DEV/Vectorless-Rag) | pushed new commits |
+| 2026-09-29 | [Lunar-Matching](https://github.com/YEsh-DEV/Lunar-Matching) | pushed new commits |
+| 2026-09-24 | [vein-detection](https://github.com/YEsh-DEV/vein-detection) | pushed new commits |
+| 2026-09-25 | [vein-detection](https://github.com/YEsh-DEV/vein-detection) | pushed new commits |
+<!-- LOGBOOK:END -->
+
+<img src="assets/divider.svg" alt="" width="100%">
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YEsh-DEV&theme=tokyonight" alt="Profile Details" />
+  Open to internships, research collaborations and interesting problems.<br>
+  <a href="https://yesh-eosin.vercel.app/"><b>Portfolio</b></a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/yesh26/"><b>LinkedIn</b></a> &nbsp;|&nbsp;
+  <a href="mailto:atmakuriyeshwanth@gmail.com"><b>Email</b></a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YEsh-DEV&theme=tokyonight" alt="Top Languages By Commit" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YEsh-DEV&theme=tokyonight" alt="Repos Per Language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YEsh-DEV&theme=tokyonight" alt="Overall Stats" />
-</p>
-
-
-<p align="center">
-  <img src="./game.gif" alt="GitHub Space Shooter" />
-</p>
-
----
-
-## 🎯 What I Focus On
-
-* Multi-Agent Orchestration & Graph-Based Executions (LangGraph, CrewAI)
-* Advanced Retrieval Engineering (GraphRAG, Hybrid Search, Dense/Sparse Routing)
-* Real-time Streaming Infrastructures & Voice-to-Voice AI Engines
-* Hardware-Software Co-Design & High-Performance Data Structures
-
----
-
-## 🤝 Connect & Collaborate
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yesh26/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=atmakuriyeshwanth@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>   
-⚡ *Constantly evolving architectures to align autonomous agents with industrial scalability.*
-
-
-
-can you help me to update this readme file 
+<p align="center"><sub>Directions are optional. Shipping is not.</sub></p>

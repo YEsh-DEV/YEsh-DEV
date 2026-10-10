@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" role="img" aria-label="Sea chart of five projects: Simsy AI, Next-TTP, Nexi, Palm Vein and Recovery Agent.">
+<defs>
+  <radialGradient id="chart" cx="50%" cy="45%" r="80%"><stop offset="0" stop-color="#ead9ab"/><stop offset="1" stop-color="#d3bd86"/></radialGradient>
+</defs>
+<rect width="1000" height="340" rx="10" fill="url(#chart)"/>
+<rect x="10" y="10" width="980" height="320" rx="6" fill="none" stroke="#3a2614" stroke-width="4"/>
+<rect x="20" y="20" width="960" height="300" fill="none" stroke="#3a2614" stroke-width="1"/>
+<text x="46" y="58" font-family="Georgia,'Times New Roman','DejaVu Serif',serif" font-size="24" font-weight="700" font-style="italic" fill="#3a2614">The route so far, 2026</text>
+<path d="M135,190 C228.5,190 228.5,130 322,130 C415.5,130 415.5,205 509,205 C602.5,205 602.5,135 696,135 C777.0,135 777.0,200 858,200" fill="none" stroke="#3a2614" stroke-width="2.4" stroke-dasharray="9 8" stroke-linecap="round" opacity=".8"/>
+<g transform="translate(36,222)" stroke="#3a2614" stroke-width="1.6" stroke-linejoin="round">
+  <path d="M-16,0 L16,0 L9,10 L-9,10 Z" fill="#7a5632"/><line x1="0" y1="0" x2="0" y2="-24"/>
+  <path d="M0,-24 L14,-6 L0,-6 Z" fill="#f3ead2"/></g>
+<g>
+  <path d="M182.6,190.0 L182.5,203.2 L166.1,212.5 L147.0,220.2 L123.0,220.4 L107.1,210.2 L95.4,201.0 L77.4,190.0 L91.8,178.0 L105.3,168.5 L121.6,156.1 L146.5,161.0 L170.9,164.0 L181.5,177.1 Z" fill="#d6bf84" stroke="#3a2614" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M168.5,184.0 L166.2,191.1 L159.1,198.2 L142.5,199.4 L127.4,199.6 L113.2,196.9 L107.5,190.2 L100.9,184.0 L103.1,176.8 L111.8,170.3 L128.4,170.4 L142.1,169.4 L153.4,173.1 L168.7,176.4 Z" fill="#5f9a6a" stroke="#3a2614" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="135" y1="182" x2="135" y2="146" stroke="#3a2614" stroke-width="2"/>
+  <path d="M135,146 L155,152 L135,158 Z" fill="#b8322a" stroke="#3a2614" stroke-width="1.4" stroke-linejoin="round"/>
+  <text x="135" y="248" text-anchor="middle" font-family="Georgia,'Times New Roman','DejaVu Serif',serif" font-size="19" font-weight="700" fill="#3a2614">Simsy AI</text>
+  <text x="135" y="268" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="13" fill="#5a4026">32% faster audio payloads</text>
+</g><g>
+  <path d="M369.6,130.0 L362.9,141.4 L353.3,152.7 L332.3,156.0 L312.0,155.2 L290.6,152.7 L268.9,144.8 L265.0,130.0 L271.2,115.9 L292.5,108.6 L310.3,100.4 L332.7,102.8 L351.0,109.0 L362.9,118.6 Z" fill="#d6bf84" stroke="#3a2614" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M355.7,124.0 L354.2,131.3 L344.3,137.2 L328.7,137.8 L315.6,137.2 L301.7,136.0 L293.6,130.4 L284.6,124.0 L289.5,116.6 L300.1,111.1 L314.3,108.1 L330.0,107.6 L340.8,112.9 L352.0,117.2 Z" fill="#5f9a6a" stroke="#3a2614" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="322" y1="122" x2="322" y2="86" stroke="#3a2614" stroke-width="2"/>
+  <path d="M322,86 L342,92 L322,98 Z" fill="#b8322a" stroke="#3a2614" stroke-width="1.4" stroke-linejoin="round"/>
+  <text x="322" y="188" text-anchor="middle" font-family="Georgia,'Times New Roman','DejaVu Serif',serif" font-size="19" font-weight="700" fill="#3a2614">Next-TTP</text>
+  <text x="322" y="208" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="13" fill="#5a4026">41.38% Hits@1</text>
+</g><g>
+  <path d="M563.0,205.0 L559.5,219.0 L544.5,230.7 L522.2,238.4 L496.5,236.5 L472.2,231.6 L469.2,216.1 L457.6,205.0 L455.5,190.1 L475.0,180.4 L495.9,172.0 L519.1,179.4 L541.1,181.8 L552.1,193.0 Z" fill="#d6bf84" stroke="#3a2614" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M540.4,199.0 L541.4,206.4 L531.4,212.2 L517.4,216.3 L502.2,213.0 L489.6,210.4 L481.8,205.2 L478.0,199.0 L476.1,191.5 L490.3,188.0 L501.4,183.2 L515.9,184.8 L528.8,187.3 L539.0,192.2 Z" fill="#5f9a6a" stroke="#3a2614" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="509" y1="197" x2="509" y2="161" stroke="#3a2614" stroke-width="2"/>
+  <path d="M509,161 L529,167 L509,173 Z" fill="#b8322a" stroke="#3a2614" stroke-width="1.4" stroke-linejoin="round"/>
+  <text x="509" y="263" text-anchor="middle" font-family="Georgia,'Times New Roman','DejaVu Serif',serif" font-size="19" font-weight="700" fill="#3a2614">Nexi</text>
+  <text x="509" y="283" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="13" fill="#5a4026">340 ms voice replies</text>
+</g><g>
+  <path d="M752.9,135.0 L747.7,149.4 L728.3,158.3 L706.7,162.0 L686.3,159.6 L661.9,159.7 L649.6,147.9 L639.7,135.0 L651.1,122.5 L660.8,109.5 L685.3,107.9 L708.7,102.9 L730.8,109.8 L741.6,122.3 Z" fill="#d6bf84" stroke="#3a2614" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M725.7,129.0 L728.6,136.4 L718.2,142.1 L704.6,146.8 L689.0,143.5 L676.5,140.5 L663.1,136.5 L660.3,129.0 L667.3,122.5 L673.6,115.8 L688.7,113.9 L704.2,112.0 L714.6,118.0 L723.9,122.7 Z" fill="#5f9a6a" stroke="#3a2614" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="696" y1="127" x2="696" y2="91" stroke="#3a2614" stroke-width="2"/>
+  <path d="M696,91 L716,97 L696,103 Z" fill="#b8322a" stroke="#3a2614" stroke-width="1.4" stroke-linejoin="round"/>
+  <text x="696" y="193" text-anchor="middle" font-family="Georgia,'Times New Roman','DejaVu Serif',serif" font-size="19" font-weight="700" fill="#3a2614">Palm Vein</text>
+  <text x="696" y="213" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="13" fill="#5a4026">sub-500 ms auth on a Pi</text>
+</g><g>
+  <path d="M907.1,200.0 L899.6,211.6 L892.0,224.6 L868.0,225.2 L846.3,229.6 L827.0,222.4 L817.8,211.2 L805.9,200.0 L818.1,188.9 L826.3,177.0 L848.0,174.8 L868.1,174.6 L889.6,177.1 L909.8,185.6 Z" fill="#d6bf84" stroke="#3a2614" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M897.1,194.0 L883.8,199.9 L880.8,207.5 L864.7,207.9 L849.3,212.0 L840.1,204.6 L823.6,201.8 L822.0,194.0 L823.9,186.3 L833.4,179.5 L851.1,179.7 L865.2,179.2 L880.6,180.7 L886.5,187.5 Z" fill="#5f9a6a" stroke="#3a2614" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="858" y1="192" x2="858" y2="156" stroke="#3a2614" stroke-width="2"/>
+  <path d="M858,156 L878,162 L858,168 Z" fill="#b8322a" stroke="#3a2614" stroke-width="1.4" stroke-linejoin="round"/>
+  <text x="858" y="258" text-anchor="middle" font-family="Georgia,'Times New Roman','DejaVu Serif',serif" font-size="19" font-weight="700" fill="#3a2614">Recovery Agent</text>
+  <text x="858" y="278" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="13" fill="#5a4026">LangGraph payment agent</text>
+</g>
+<g transform="translate(925,70)" stroke="#3a2614" stroke-width="1.6" fill="none">
+  <circle r="30"/><circle r="22" stroke-width="1" opacity=".6"/>
+  <path d="M0,-38 L6,-6 L0,0 L-6,-6 Z" fill="#b8322a"/><path d="M0,38 L6,6 L0,0 L-6,6 Z" fill="#3a2614"/>
+  <path d="M-38,0 L-6,-6 L0,0 L-6,6 Z" fill="#3a2614" opacity=".7"/><path d="M38,0 L6,-6 L0,0 L6,6 Z" fill="#3a2614" opacity=".7"/>
+  <text y="-44" text-anchor="middle" font-family="Georgia,'Times New Roman','DejaVu Serif',serif" font-size="13" font-weight="700" fill="#3a2614" stroke="none">N</text>
+</g>
+</svg>

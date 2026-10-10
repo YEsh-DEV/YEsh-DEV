@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-label="Yeshwanth Atmakuri - AI engineer. Banner with a pirate skull emblem and three sword slashes.">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#07120f"/><stop offset="1" stop-color="#10302a"/></linearGradient>
+  <radialGradient id="halo" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#2f7d4f" stop-opacity=".55"/><stop offset="1" stop-color="#2f7d4f" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="320" fill="url(#sky)"/>
+<circle cx="1052" cy="148" r="190" fill="url(#halo)"/>
+<path d="M0,262 Q55.0,253 110.0,262 T220,262 T440,262 T660,262 T880,262 T1100,262 T1320,262 T1540,262 L1540,320 L0,320 Z" fill="#1d5a45" opacity="0.75"/>
+<path d="M0,278 Q42.5,271 85.0,278 T170,278 T340,278 T510,278 T680,278 T850,278 T1020,278 T1190,278 T1360,278 T1530,278 L1530,320 L0,320 Z" fill="#17463a" opacity="0.9"/>
+<path d="M0,296 Q32.5,290 65.0,296 T130,296 T260,296 T390,296 T520,296 T650,296 T780,296 T910,296 T1040,296 T1170,296 T1300,296 T1430,296 L1430,320 L0,320 Z" fill="#0f3329" opacity="1"/>
+<g font-family="Georgia,'Times New Roman','DejaVu Serif',serif"><text x="64" y="126" font-size="54" font-weight="700" fill="#eef5ef">Yeshwanth Atmakuri</text></g>
+<g font-family="'Segoe UI',Helvetica,Arial,'DejaVu Sans',sans-serif">
+  <text x="66" y="168" font-size="20" font-weight="600" fill="#8fd0a0">AI engineer: GraphRAG, voice agents, autonomous workflows</text>
+  <text x="66" y="202" font-size="15.5" fill="#a9bdb6">B.Tech CSE (AI &amp; ML), SRM University AP</text>
+  <text x="66" y="226" font-size="15.5" fill="#a9bdb6">Member, McCarthy Lab, Next Tech Lab</text>
+</g>
+<line x1="790" y1="28" x2="890" y2="292" stroke="#e8d28a" stroke-width="3.2" stroke-linecap="round" stroke-dasharray="286" opacity=".9"><animate attributeName="stroke-dashoffset" from="286" to="0" dur="0.32s" begin="0.00s" fill="freeze"/></line><line x1="816" y1="28" x2="916" y2="292" stroke="#e8d28a" stroke-width="2.7" stroke-linecap="round" stroke-dasharray="286" opacity=".9"><animate attributeName="stroke-dashoffset" from="286" to="0" dur="0.32s" begin="0.15s" fill="freeze"/></line><line x1="842" y1="28" x2="942" y2="292" stroke="#e8d28a" stroke-width="2.2" stroke-linecap="round" stroke-dasharray="286" opacity=".9"><animate attributeName="stroke-dashoffset" from="286" to="0" dur="0.32s" begin="0.30s" fill="freeze"/></line>
+<g transform="translate(1052,150) scale(1.25)">
+  <circle r="97" fill="none" stroke="#d8b455" stroke-width="3"/>
+  <circle r="90" fill="none" stroke="#3f8f5f" stroke-width="1" opacity=".8"/>
+  <g transform="rotate(-38)">
+  <polygon points="0,-92 4,-72 4,42 -4,42 -4,-72" fill="#c9d6d3" stroke="#0b1514" stroke-width="1.2" stroke-linejoin="round"/>
+  <line x1="0" y1="-84" x2="0" y2="36" stroke="#efe8d5" stroke-width="1" opacity=".55"/>
+  <ellipse cx="0" cy="46" rx="12" ry="4" fill="#d8b455" stroke="#0b1514" stroke-width="1"/>
+  <rect x="-3.2" y="49" width="6.4" height="34" rx="2" fill="#1b2b27" stroke="#0b1514" stroke-width="1"/>
+  <circle cx="0" cy="86" r="4.2" fill="#d8b455" stroke="#0b1514" stroke-width="1"/>
+</g><g transform="rotate(38)">
+  <polygon points="0,-92 4,-72 4,42 -4,42 -4,-72" fill="#c9d6d3" stroke="#0b1514" stroke-width="1.2" stroke-linejoin="round"/>
+  <line x1="0" y1="-84" x2="0" y2="36" stroke="#efe8d5" stroke-width="1" opacity=".55"/>
+  <ellipse cx="0" cy="46" rx="12" ry="4" fill="#d8b455" stroke="#0b1514" stroke-width="1"/>
+  <rect x="-3.2" y="49" width="6.4" height="34" rx="2" fill="#1b2b27" stroke="#0b1514" stroke-width="1"/>
+  <circle cx="0" cy="86" r="4.2" fill="#d8b455" stroke="#0b1514" stroke-width="1"/>
+</g><g transform="rotate(0)">
+  <polygon points="0,-92 4,-72 4,42 -4,42 -4,-72" fill="#c9d6d3" stroke="#0b1514" stroke-width="1.2" stroke-linejoin="round"/>
+  <line x1="0" y1="-84" x2="0" y2="36" stroke="#efe8d5" stroke-width="1" opacity=".55"/>
+  <ellipse cx="0" cy="46" rx="12" ry="4" fill="#d8b455" stroke="#0b1514" stroke-width="1"/>
+  <rect x="-3.2" y="49" width="6.4" height="34" rx="2" fill="#1b2b27" stroke="#0b1514" stroke-width="1"/>
+  <circle cx="0" cy="86" r="4.2" fill="#d8b455" stroke="#0b1514" stroke-width="1"/>
+</g>
+  <ellipse cx="0" cy="-6" rx="41" ry="37" fill="#efe8d5" stroke="#0b1514" stroke-width="2"/>
+  <rect x="-23" y="20" width="46" height="23" rx="7" fill="#efe8d5" stroke="#0b1514" stroke-width="2"/>
+  <ellipse cx="-15" cy="-4" rx="9.5" ry="10.5" fill="#0b1514"/>
+  <ellipse cx="15" cy="-4" rx="9.5" ry="10.5" fill="#0b1514"/>
+  <path d="M0,7 L-4.5,17 L4.5,17 Z" fill="#0b1514"/>
+  <g stroke="#0b1514" stroke-width="2" stroke-linecap="round">
+    <line x1="-13" y1="31" x2="-13" y2="42"/><line x1="-4.5" y1="31" x2="-4.5" y2="42"/>
+    <line x1="4.5" y1="31" x2="4.5" y2="42"/><line x1="13" y1="31" x2="13" y2="42"/>
+  </g>
+  <path d="M-42,-27 Q0,-47 42,-27 L42,-14 Q0,-34 -42,-14 Z" fill="#3f8f5f" stroke="#0b1514" stroke-width="1.6" stroke-linejoin="round"/>
+  <path d="M-42,-24 L-60,-14 L-52,-26 L-62,-30 Z" fill="#3f8f5f" stroke="#0b1514" stroke-width="1.4" stroke-linejoin="round"/>
+  <g fill="none" stroke="#d8b455" stroke-width="2.4">
+    <circle cx="45" cy="-2" r="3"/><circle cx="46" cy="6" r="3"/><circle cx="44" cy="14" r="3"/>
+  </g>
+</g>
+</svg>

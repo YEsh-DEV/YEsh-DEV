@@ -27,7 +27,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Rebuild poster and logbook
+      - name: Rebuild wanted poster
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_LOGIN: ${{ github.repository_owner }}
@@ -41,6 +41,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "Nothing to commit"
           else
-            git commit -m "chore: refresh bounty and logbook"
+            git commit -m "chore: refresh bounty"
             git push
           fi

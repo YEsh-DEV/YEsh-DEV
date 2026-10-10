@@ -3,7 +3,6 @@
 Refresh the dynamic parts of the profile README.
 
  1. assets/wanted.svg  - the Wanted poster, with a bounty computed from public GitHub activity
- 2. README.md          - the "Logbook" table (latest public activity)
 
 Standard library only. Runs inside GitHub Actions (see .github/workflows/update-profile.yml)
 and also locally:  GITHUB_TOKEN=<token> python scripts/update_profile.py
@@ -156,50 +155,6 @@ def wanted_svg(st):
 '''
 
 
-# ---------------------------------------------------------------- logbook
-def logbook_rows(limit=5):
-    events = gh(f"https://api.github.com/users/{LOGIN}/events/public?per_page=60")
-    if not events:
-        return None
-    rows, seen = [], set()
-    for e in events:
-        repo = e["repo"]["name"].split("/")[-1]
-        if repo.lower() == LOGIN.lower():
-            continue  # skip the bot commits on this very repo
-        kind, pl, date = e["type"], e.get("payload", {}), e["created_at"][:10]
-        if kind == "PushEvent":
-            commits = pl.get("commits") or []
-            msg = commits[-1]["message"].splitlines()[0] if commits else "pushed new commits"
-        elif kind == "PullRequestEvent":
-            msg = f"PR {pl.get('action', 'updated')}: {(pl.get('pull_request') or {}).get('title', '')}".strip()
-        elif kind == "CreateEvent" and pl.get("ref_type") == "repository":
-            msg = "launched a new repository"
-        else:
-            continue
-        msg = msg.replace("|", "/").strip()
-        msg = msg if len(msg) <= 78 else msg[:75] + "..."
-        key = (repo, msg, date)
-        if key in seen:
-            continue
-        seen.add(key)
-        rows.append(f"| {date} | [{repo}](https://github.com/{LOGIN}/{repo}) | {msg} |")
-        if len(rows) == limit:
-            break
-    return rows or None
-
-
-def update_readme(rows):
-    path = ROOT / "README.md"
-    text = path.read_text(encoding="utf-8")
-    block = "<!-- LOGBOOK:START -->\n| Date | Repo | Entry |\n|---|---|---|\n" + "\n".join(rows) + "\n<!-- LOGBOOK:END -->"
-    new = re.sub(r"<!-- LOGBOOK:START -->.*?<!-- LOGBOOK:END -->", lambda _: block, text, flags=re.S)
-    if new != text:
-        path.write_text(new, encoding="utf-8")
-        print("README logbook updated")
-    else:
-        print("README logbook unchanged")
-
-
 def main():
     print(f"Refreshing profile for {LOGIN} (token: {'yes' if TOKEN else 'no'})")
     st = fetch_stats()
@@ -210,11 +165,6 @@ def main():
         print(f"poster written, bounty = {bounty(st):,}")
     else:
         print("no stats available - poster left untouched")
-    rows = logbook_rows()
-    if rows:
-        update_readme(rows)
-    else:
-        print("no activity found - logbook left untouched")
 
 
 if __name__ == "__main__":

@@ -1,15 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Yeshwanth Atmakuri, AI engineer: GraphRAG, voice agents, autonomous workflows" src="assets/banner-light.svg" width="100%">
-</picture>
-
-<p align="center">
-  <a href="https://yesh-eosin.vercel.app/"><b>Portfolio</b></a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/yesh26/"><b>LinkedIn</b></a> &nbsp;|&nbsp;
-  <a href="mailto:atmakuriyeshwanth@gmail.com"><b>Email</b></a>
-</p>
-
 <table>
 <tr>
 <td width="340" valign="top">

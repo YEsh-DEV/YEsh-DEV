@@ -1,0 +1,91 @@
+{
+  "login": "YEsh-DEV",
+  "name": "Yeshwanth Atmakuri",
+  "epithet": "The Graph Slasher",
+  "seed_stats": { "repos": 46, "followers": 8 },
+
+  "voyage": {
+    "lanes": ["Work and research", "Study and community"],
+    "items": [
+      {
+        "lane": 0, "start": "2026-08", "end": "now",
+        "title": "AI Automation R&D Intern", "org": "Advfiction",
+        "dates": "Aug 2026 to now",
+        "line": "Automation workflows for a Business OS. Compared n8n, Zapier, Workato, Zoho Flow."
+      },
+      {
+        "lane": 0, "start": "2026-05", "end": "2026-07",
+        "title": "Research Intern", "org": "Cyber threat intelligence",
+        "dates": "May to Jul 2026",
+        "line": "Built a GraphRAG system that predicts an attacker's next technique."
+      },
+      {
+        "lane": 0, "start": "2026-01", "end": "2026-03",
+        "title": "AI Engineering Intern", "org": "Simsy AI",
+        "dates": "Jan to Mar 2026",
+        "line": "Shipped voice-pipeline components: 32% lower audio latency, 45% lighter containers."
+      },
+      {
+        "lane": 1, "start": "2026-03", "end": "2026-08",
+        "title": "Exchange Semester", "org": "Universiti Teknologi Malaysia",
+        "dates": "Mar to Aug 2026",
+        "line": "Studied abroad in Johor Bahru, Malaysia."
+      },
+      {
+        "lane": 1, "start": "now", "end": "now", "ongoing": true, "height": 110,
+        "title": "Member, McCarthy Lab", "org": "Next Tech Lab",
+        "dates": "Ongoing",
+        "line": "Student mentorship lab for AI projects."
+      }
+    ]
+  },
+
+  "projects": [
+    {
+      "name": "Next-TTP", "repo": "Next-TTP-Prediction",
+      "line": "Predicts an attacker's next technique with graph RAG",
+      "stack": ["python", "pytorch", "neo4j", "chromadb"],
+      "bounty": "41.38%", "bounty_sub": "Hits@1"
+    },
+    {
+      "name": "Nexi", "repo": "nexi-ntl",
+      "line": "Voice assistant grounded in PDFs and structured data",
+      "stack": ["python", "livekit", "llamaindex", "chromadb"],
+      "bounty": "340 ms", "bounty_sub": "voice replies"
+    },
+    {
+      "name": "Palm Vein Pay", "repo": "vein-detection",
+      "line": "Pay with your palm on a Raspberry Pi 5",
+      "stack": ["python", "opencv", "mediapipe", "fastapi"],
+      "bounty": "<500 ms", "bounty_sub": "authentication"
+    },
+    {
+      "name": "Recovery Agent", "repo": "Autonomous-Recovery-Agent",
+      "line": "Diagnoses failed payments and sends the fix itself",
+      "stack": ["python", "langgraph", "fastapi", "sqlite"],
+      "bounty": "Drop-in", "bounty_sub": "middleware"
+    }
+  ],
+
+  "armory": [
+    { "name": "Languages", "items": [
+      ["python", "Python", 1], ["cplusplus", "C++", 0], ["java", "Java", 0] ] },
+    { "name": "Frontend", "items": [
+      ["html5", "HTML", 0], ["css", "CSS", 0], ["javascript", "JavaScript", 0],
+      ["typescript", "TypeScript", 0], ["react", "React", 0] ] },
+    { "name": "Backend", "items": [
+      ["fastapi", "FastAPI", 1], ["sqlalchemy", "SQLAlchemy", 0], ["livekit", "LiveKit", 1],
+      ["restapi", "REST API", 0], ["webhooks", "Webhooks", 0] ] },
+    { "name": "AI / ML", "items": [
+      ["pytorch", "PyTorch", 1], ["tensorflow", "TensorFlow", 0], ["scikitlearn", "scikit-learn", 0],
+      ["xgboost", "XGBoost", 0], ["opencv", "OpenCV", 0], ["mediapipe", "MediaPipe", 0],
+      ["langchain", "LangChain", 0], ["langgraph", "LangGraph", 1], ["llamaindex", "LlamaIndex", 0],
+      ["crewai", "CrewAI", 0], ["advancedrag", "Advanced RAG", 0] ] },
+    { "name": "Cloud and Deployment", "items": [
+      ["docker", "Docker", 1], ["aws", "AWS", 0], ["githubactions", "GitHub Actions", 0],
+      ["vercel", "Vercel", 0], ["git", "Git", 0] ] },
+    { "name": "Databases", "items": [
+      ["neo4j", "Neo4j", 1], ["chromadb", "ChromaDB", 1], ["qdrant", "Qdrant", 0],
+      ["postgresql", "PostgreSQL", 0], ["sqlite", "SQLite", 0] ] }
+  ]
+}

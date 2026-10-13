@@ -9,7 +9,7 @@
 3 internships in 2026 across voice AI, security research and automation. 2x Smart India Hackathon internal qualifier.
 
 **Now:** AI Automation R&D Intern at Advfiction.<br>
-<!-- LASTSEEN:START -->*Last seen: pushing to Vectorless-Rag, 11 days ago.*<!-- LASTSEEN:END -->
+<!-- LASTSEEN:START -->*Last seen: pushing to Vectorless-Rag, 12 days ago.*<!-- LASTSEEN:END -->
 
 [**Portfolio**](https://yesh-eosin.vercel.app/) &nbsp;|&nbsp; [**LinkedIn**](https://www.linkedin.com/in/yesh26/) &nbsp;|&nbsp; [**Email**](mailto:atmakuriyeshwanth@gmail.com)
 

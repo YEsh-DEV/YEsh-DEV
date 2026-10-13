@@ -1,9 +1,4 @@
-<table>
-<tr>
-<td width="310" valign="top">
-<img src="assets/wanted.svg" alt="Wanted poster for Yeshwanth Atmakuri, The Graph Slasher, with a bounty computed from GitHub activity" width="290">
-</td>
-<td valign="top">
+
 
 # Yeshwanth Atmakuri
 
@@ -22,8 +17,7 @@
 </tr>
 </table>
 
-<img src="assets/living-sea.svg" alt="A pirate ship sailing on a night sea whose waves rise and fall with my weekly commits" width="100%">
-<p align="center"><sub>The sea rises and falls with my weekly commits, the islands are repos I started this year, and the moon is today's real moon. Redrawn daily.</sub></p>
+
 
 ## Voyage
 

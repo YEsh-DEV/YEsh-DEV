@@ -3,7 +3,7 @@
 <g clip-path="url(#c2)">
 <rect width="360" height="150" fill="url(#paper2)"/>
 <path d="M0,52 C90,46 270,58 360,50" fill="none" stroke="#8a6a34" stroke-width="1" opacity=".16"/>
-<path d="M296,0 L360,0 L360,64 Z" fill="#d8b455"/><path d="M296,0 L360,64" stroke="#3a2614" stroke-width="1" opacity=".5"/><text transform="translate(334,25) rotate(45)" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#3a2614">TODAY</text>
+
 </g>
 <rect x="3" y="3" width="354" height="144" rx="7" fill="none" stroke="#3a2614" stroke-width="3"/>
 <rect x="9" y="9" width="342" height="132" rx="4" fill="none" stroke="#3a2614" stroke-width=".9" opacity=".6"/>
